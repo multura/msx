@@ -1,9 +1,9 @@
 {
-    "headline": "игорь линк покакал канал",
+    "headline": "Box",
     "menu": [
         {
             "icon": "info",
-            "label": "Добро пожаловать!",
+            "label": "добро пожаловать!",
             "data": "https://multura.github.io/msx/data/welcome.json"
         },
         {
@@ -24,6 +24,15 @@
             "icon": "image",
             "label": "картинки (w.i.p)",
             "data": "https://benzac-de.github.io/msx/data/base/images.json"
-        }
+        },
+        {
+            "type": "separator",
+            "label": "Рандомная хуета"
+        },
+        {
+            "icon": "beach-access",
+            "label": "города Подзалупинска)",
+            "data": "https://multura.github.io/msx/data/base/cities.json"
+        },
     ]
 }
