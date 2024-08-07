@@ -32,7 +32,7 @@
         {
             "icon": "beach-access",
             "label": "города Подзалупинска",
-            "data": "https://multura.github.io/msx/data/base/cities.json"
+            "data": "https://multura.github.io/msx/data/cities.json"
         }
     ]
 }
