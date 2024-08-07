@@ -1,5 +1,11 @@
 {
-    "name": "Box / Смотри Кухню",
-    "version": "0.0.2 (alpha)",
-    "parameter": "menu:https://multura.github.io/msx/data/menu.json"
+    "name": "Twitch MSX",
+    "version": "1.0.5",
+    "parameter": "menu:request:interaction:init@{PREFIX}{SERVER}/interaction",
+    "launcher": {
+        "parameter": "link:https://msx.benzac.de/?start=menu:request:interaction:init@{PREFIX}{SERVER}/interaction&leave=1",
+        "icon": "videogame-asset",
+        "image": "none",
+        "color": "#8c45f7"
+    }
 }
