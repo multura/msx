@@ -18,7 +18,7 @@
         {
             "icon": "music-note",
             "label": "аудио (w.i.p)",
-            "data": "https://benzac-de.github.io/msx/data/base/audios.json"
+            "data": "https://multura.github.io/msx/data/audios.json"
         },
         {
             "icon": "image",
