@@ -1,5 +1,5 @@
 {
-    "headline": "Box",
+    "headline": "Box / Смотри Кухню!",
     "menu": [
         {
             "icon": "beach-access",
@@ -8,26 +8,47 @@
         },
         {
             "type": "separator",
-            "label": "Медиа (w.i.p)"
+            "label": "Сезоны (W.I.P)"
         },
         {
             "icon": "movie",
-            "label": "видео (w.i.p)",
+            "label": "1 сезон",
             "data": "https://benzac-de.github.io/msx/data/base/videos.json"
         },
         {
-            "icon": "music-note",
-            "label": "аудио (w.i.p)",
-            "data": "https://multura.github.io/msx/data/audios.json"
+            "icon": "movie",
+            "label": "2 сезон",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
         },
         {
-            "icon": "image",
-            "label": "картинки (w.i.p)",
-            "data": "https://benzac-de.github.io/msx/data/base/images.json"
+            "icon": "movie",
+            "label": "3 сезон",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
         },
+        {
+            "icon": "movie",
+            "label": "4 сезон",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+        },
+        {
+            "icon": "movie",
+            "label": "5 сезон",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+        },
+        {
+            "icon": "movie",
+            "label": "6 сезон",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+        },
+        
         {
             "type": "separator",
-            "label": "The Box Service by connect®"
-        }
+            "label": "Все серии (W.I.P)"
+        },
+        {
+            "icon": "movie",
+            "label": "смотреть!",
+            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+        },
     ]
 }
