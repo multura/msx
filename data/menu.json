@@ -3,7 +3,7 @@
     "menu": [
         {
             "icon": "info",
-            "label": "Welcome",
+            "label": "Well cum",
             "data": "https://benzac-de.github.io/msx/data/welcome.json"
         },
         {
