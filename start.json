@@ -1,5 +1,5 @@
 {
-    "name": "The Box Service by connect®",
-    "version": "0.0.1 (alpha)",
+    "name": "Box / Смотри Кухню",
+    "version": "0.0.2 (alpha)",
     "parameter": "menu:https://multura.github.io/msx/data/menu.json"
 }
