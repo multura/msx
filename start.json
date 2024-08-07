@@ -1,0 +1,5 @@
+{
+    "name": "test",
+    "version": "1.0.2",
+    "parameter": "menu:https://multura.github.io/msx/data/menu.json"
+}
