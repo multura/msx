@@ -49,6 +49,6 @@
             "icon": "movie",
             "label": "смотреть!",
             "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        },
+        }
     ]
 }
