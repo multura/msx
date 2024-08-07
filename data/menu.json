@@ -1,54 +1,14 @@
 {
     "headline": "Box / Смотри Кухню!",
-    "menu": [
-        {
-            "icon": "beach-access",
-            "label": "добро пожаловать!",
-            "data": "https://multura.github.io/msx/data/welcome.json"
-        },
-        {
-            "type": "separator",
-            "label": "Сезоны (W.I.P)"
-        },
-        {
-            "icon": "movie",
-            "label": "1 сезон",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        },
-        {
-            "icon": "movie",
-            "label": "2 сезон",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        },
-        {
-            "icon": "movie",
-            "label": "3 сезон",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        },
-        {
-            "icon": "movie",
-            "label": "4 сезон",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        },
-        {
-            "icon": "movie",
-            "label": "5 сезон",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        },
-        {
-            "icon": "movie",
-            "label": "6 сезон",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        },
-        
-        {
-            "type": "separator",
-            "label": "Все серии (W.I.P)"
-        },
-        {
-            "icon": "movie",
-            "label": "смотреть!",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
-        }
-    ]
+{
+    "name": "Twitch MSX",
+    "version": "1.0.5",
+    "parameter": "menu:request:interaction:init@{PREFIX}{SERVER}/interaction",
+    "launcher": {
+        "parameter": "link:https://msx.benzac.de/?start=menu:request:interaction:init@{PREFIX}{SERVER}/interaction&leave=1",
+        "icon": "videogame-asset",
+        "image": "none",
+        "color": "#8c45f7"
+    }
+}
 }
