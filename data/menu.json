@@ -13,17 +13,17 @@
         {
             "icon": "movie",
             "label": "Видео",
-            "data": "https://benzac-de.github.io/msx/data/videos.json"
+            "data": "https://multura.github.io/msx/data/videos.json"
         },
         {
             "icon": "music-note",
             "label": "Музыка",
-            "data": "https://benzac-de.github.io/msx/data/audios.json"
+            "data": "https://multura.github.io/msx/data/audios.json"
         },
         {
             "icon": "image",
             "label": "Картинки",
-            "data": "https://benzac-de.github.io/msx/data/images.json"
+            "data": "https://multura.github.io/msx/data/images.json"
         },
         {
             "type": "separator",
