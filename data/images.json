@@ -1,0 +1,25 @@
+{
+    "type": "pages",
+    "headline": "Images",
+    "template": {
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "cover",
+        "action": "image:context"
+    },
+    "items": [
+        {
+            "titleFooter": "игорь линк",
+            "image": "https://multura.serv00.net/igorpidor.jpg"
+        },
+        {
+            "titleFooter": "hamster criminal",
+            "image": "https://multura.serv00.net/hamster.jpg"
+        },
+        {
+            "titleFooter": "deep тв",
+            "image": "https://multura.neocities.org/sigmagyat.png"
+        }
+    ]
+}
