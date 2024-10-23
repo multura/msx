@@ -16,9 +16,9 @@
         },
         {
             "background": "https://multura.neocities.org/pencil.jpg",
-            "title": "Audio 2",
-            "playerLabel": "Audio 2",
-            "action": "audio:https://multura.serv00.net/files/psp.mp3"
+            "title": "PSP boot",
+            "playerLabel": "PSP boot",
+            "action": "audio:https://omega.multura.serv00.net/submission/psp.mp3"
         }
     ]
 }
