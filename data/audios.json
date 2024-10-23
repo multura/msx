@@ -1,0 +1,24 @@
+{
+    "type": "pages",
+    "headline": "Музыка",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "icon": "msx-white-soft:music-note",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "background": "https://multura.neocities.org/pencil.jpg",
+            "title": "PVZ звук выигрыша",
+            "playerLabel": "PVZ звук выигрыша",
+            "action": "audio:https://omega.multura.serv00.net/files/pvz-winning-music.mp3"
+        },
+        {
+            "background": "https://multura.neocities.org/pencil.jpg",
+            "title": "Audio 2",
+            "playerLabel": "Audio 2",
+            "action": "audio:https://multura.serv00.net/files/psp.mp3"
+        }
+    ]
+}
