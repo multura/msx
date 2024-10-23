@@ -19,6 +19,18 @@
             "title": "PSP boot",
             "playerLabel": "PSP boot",
             "action": "audio:https://omega.multura.serv00.net/submission/psp.mp3"
+        },
+        {
+            "background": "https://multura.neocities.org/pencil.jpg",
+            "title": "Барабаны",
+            "playerLabel": "Барабаны",
+            "action": "audio:https://omega.multura.serv00.net/submission/drums.mp3"
+        },
+        {
+            "background": "https://multura.neocities.org/pencil.jpg",
+            "title": "Веселая песня",
+            "playerLabel": "Веселая песня",
+            "action": "audio:https://omega.multura.serv00.net/submission/funny.mp3"
         }
     ]
 }
