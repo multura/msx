@@ -1,0 +1,17 @@
+{
+    "type": "pages",
+    "headline": "Видео",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "icon": "msx-white-soft:movie",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "Banana Song",
+            "playerLabel": "Banana Song",
+            "action": "video:https://multura.serv00.net/bananasong.mp4"
+        }
+    ]
+}
