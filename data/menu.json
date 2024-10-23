@@ -3,7 +3,7 @@
     "menu": [
         {
             "icon": "info",
-            "label": "Welcome",
+            "label": "Главная",
             "data": "https://multura.github.io/msx/data/welcome.json"
         },
         {
