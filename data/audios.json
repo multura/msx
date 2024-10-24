@@ -31,6 +31,12 @@
             "title": "Веселая песня",
             "playerLabel": "Веселая песня",
             "action": "audio:https://omega.multura.serv00.net/submission/funny.mp3"
+        },
+        {
+            "background": "https://multura.neocities.org/pencil.jpg",
+            "title": "French Song",
+            "playerLabel": "French Song [cdn.uzbekistation.serv00.net test]",
+            "action": "audio:https://cdn.uzbekistation.serv00.net/french.mp3"
         }
     ]
 }
