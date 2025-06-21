@@ -1,0 +1,33 @@
+{
+    "headline": "Submission",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Главная",
+            "data": "https://multura.github.io/msx/data/welcome.json"
+        },
+        {
+            "type": "separator",
+            "label": "основное"
+        },
+        {
+            "icon": "movie",
+            "label": "Видео",
+            "data": "https://multura.github.io/msx/data/videos.json"
+        },
+        {
+            "icon": "music-note",
+            "label": "Музыка",
+            "data": "https://multura.github.io/msx/data/audios.json"
+        },
+        {
+            "icon": "image",
+            "label": "Картинки",
+            "data": "https://multura.github.io/msx/data/images.json"
+        },
+        {
+            "type": "separator",
+            "label": "0.0.2 αlpha"
+        }
+    ]
+}
