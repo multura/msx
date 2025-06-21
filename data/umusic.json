@@ -7,7 +7,8 @@
         "icon": "msx-white-soft:music-note",
         "color": "msx-glass"
     },
-    "items": [
+    "pages": [{
+            "items": [{
         {
             "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
             "title": "girl, so confusing - Charli xcx",
@@ -62,5 +63,63 @@
             "playerLabel": "Von dutch - Charli xcx",
             "action": "audio:https://uzbekistation.serv00.net/music/brat/vondutch.mp3"
         }
-    ]
+                }]
+        }, {
+                        "items": [{
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "girl, so confusing - Charli xcx",
+            "playerLabel": "girl, so confusing - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/uploads/music/track_680cd7209250e0.30501483.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "360 - Charli xcx",
+            "playerLabel": "360 - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/360.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "sympathy is a knife - Charli xcx",
+            "playerLabel": "sympathy is a knife - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/siak.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "365 - Charli xcx",
+            "playerLabel": "365 - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/365.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "Apple - Charli xcx",
+            "playerLabel": "Apple - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/apple.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "B2B - Charli xcx",
+            "playerLabel": "B2B - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/b2b.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "Club classics - Charli xcx",
+            "playerLabel": "Club classics - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/clubclassics.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "Talk talk - Charli xcx",
+            "playerLabel": "Talk talk - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/talktalk.mp3"
+        },
+        {
+            "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
+            "title": "Von dutch - Charli xcx",
+            "playerLabel": "Von dutch - Charli xcx",
+            "action": "audio:https://uzbekistation.serv00.net/music/brat/vondutch.mp3"
+        }
+                }]
+        }
 }
