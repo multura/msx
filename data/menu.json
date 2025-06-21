@@ -28,10 +28,6 @@
             "icon": "music-note",
             "label": "BRAT",
             "data": "https://multura.github.io/msx/data/brat.json"
-        },
-        {
-            "type": "separator",
-            "label": "0.0.2 αlpha"
         }
     ]
 }
