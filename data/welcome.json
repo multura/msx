@@ -10,8 +10,9 @@
                     "text": [
                         "Это сборище видео, аудио и фото.{br}{br}",
                         "{txt:msx-white:Контакты}{br}",
-                        "{txt:msx-white:Почта} {ico:msx-white:play-arrow} submission@multura.serv00.net{br}",
-                        "{txt:msx-white:Предложка} {ico:msx-white:play-arrow} t.me/submissionmsxbot{br}"
+                        "{txt:msx-white:Почта} {ico:msx-white:play-arrow} нельзя{br}",
+                        "{br}",
+                        "{txt:msx-white:Хостинг} {ico:msx-white:play-arrow} ustation{br}"
                     ]
                 }
             ]
