@@ -2,7 +2,7 @@
     "type": "pages",
     "headline": "umusic",
     "pages": [{
-            "items": [{
+            "items": [
         {
             "background": "https://uzbekistation.serv00.net/music/uploads/cover_681a1afcd839b6.35580670.jpg",
             "title": "girl, so confusing - Charli xcx",
@@ -57,7 +57,7 @@
             "playerLabel": "Von dutch - Charli xcx",
             "action": "audio:https://uzbekistation.serv00.net/music/brat/vondutch.mp3"
         }
-                }]
+                ]
         }, {
                         "items": [{
         {
@@ -114,6 +114,6 @@
             "playerLabel": "Von dutch - Charli xcx",
             "action": "audio:https://uzbekistation.serv00.net/music/brat/vondutch.mp3"
         }
-                }]
+                ]
         }
 }
