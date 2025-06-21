@@ -1,12 +1,6 @@
 {
     "type": "pages",
     "headline": "umusic",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,2,3",
-        "icon": "msx-white-soft:music-note",
-        "color": "msx-glass"
-    },
     "pages": [{
             "items": [{
         {
