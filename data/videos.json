@@ -9,9 +9,9 @@
     },
     "items": [
         {
-            "title": "Banana Song",
-            "playerLabel": "Banana Song",
-            "action": "video:https://omega.multura.serv00.net/submission/bananasong.mp4"
+            "title": "WIP",
+            "playerLabel": "work in progress...",
+            "action": "video:#"
         }
     ]
 }
