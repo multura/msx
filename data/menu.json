@@ -21,13 +21,9 @@
             "data": "https://multura.github.io/msx/data/images.json"
         },
         {
-            "type": "separator",
-            "label": "umusic"
-        },
-        {
             "icon": "music-note",
-            "label": "BRAT",
-            "data": "https://multura.github.io/msx/data/brat.json"
+            "label": "umusic",
+            "data": "https://multura.github.io/msx/data/umusic.json"
         }
     ]
 }
