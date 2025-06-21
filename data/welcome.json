@@ -7,7 +7,7 @@
                     "layout": "0,0,12,6",
                     "color": "msx-glass",
                     "headline": "Добро пожаловать в Submission",
-                    "action": "warning:хуле жмякаешь куда не надо блядь",
+                    "action": "info:хуле жмякаешь куда не надо блядь",
                     "text": [
                         "Это сборище видео, аудио и фото.{br}{br}",
                         "{txt:msx-white:Контакты}{br}",
