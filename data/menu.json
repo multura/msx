@@ -16,14 +16,18 @@
             "data": "https://multura.github.io/msx/data/videos.json"
         },
         {
-            "icon": "music-note",
-            "label": "Музыка",
-            "data": "https://multura.github.io/msx/data/audios.json"
-        },
-        {
             "icon": "image",
             "label": "Картинки",
             "data": "https://multura.github.io/msx/data/images.json"
+        },
+        {
+            "type": "separator",
+            "label": "umusic"
+        },
+        {
+            "icon": "music-note",
+            "label": "BRAT",
+            "data": "https://multura.github.io/msx/data/brat.json"
         },
         {
             "type": "separator",
