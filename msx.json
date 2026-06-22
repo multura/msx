@@ -8,12 +8,12 @@
    "items": [
        {
 	     "title":"metaframe",
-         "image": "metaframe.jpg",
+         "image": "https://multura.github.io/msx/metaframe.jpg",
          "action": "link:https://qnetwork.ru/metaframe/u"
       },
       {
 	     "title":"ClockTab",
-         "image": "clocktab.jpg",
+         "image": "https://multura.github.io/msx/clocktab.jpg",
          "action": "link:https://multura.github.io/ClockTab"
       }
    ]
