@@ -1,5 +1,5 @@
 {
     "name": "metaframe",
     "version": "0.0.1",
-    "parameter": "menu:https://multura.github.io/msx/msx.json"
+    "parameter": "content:https://multura.github.io/msx/msx.json"
 }
