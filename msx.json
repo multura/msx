@@ -1,10 +1,20 @@
 {
-  "type": "pages",
-  "headline": "metaframe",
-  "items": [
-    {
-      "title": "Run",
-      "action": "link:https://qnetwork.ru/metaframe/u"
-    }
-  ]
+   "type": "pages",
+   "headline": "apps",
+   "template": {
+      "layout": "0,0,4,4",
+      "color": "msx-glass"
+   },
+   "items": [
+       {
+	     "title":"metaframe",
+         "image": "metaframe.jpg",
+         "action": "link:https://qnetwork.ru/metaframe/u"
+      },
+      {
+	     "title":"ClockTab",
+         "image": "clocktab.jpg",
+         "action": "link:https://multura.github.io/ClockTab"
+      }
+   ]
 }
