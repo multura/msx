@@ -1,5 +1,5 @@
 {
-    "name": "Submission (α)",
-    "version": "0.0.3",
-    "parameter": "menu:https://multura.github.io/msx/data/menu.json"
+    "name": "metaframe",
+    "version": "0.0.1",
+    "parameter": "menu:https://multura.github.io/msx/msx.json"
 }
